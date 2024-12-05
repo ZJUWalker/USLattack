@@ -18,6 +18,11 @@
 *.jsonl
 *.pickle
 *.pkl
+*.arrow
+*.safetensor
+*.npy
+*.npz
+
 
 # 忽略缓存文件
 __pycache__/    # Python 缓存
