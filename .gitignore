@@ -13,6 +13,8 @@
 *.csv           # 数据文件
 *.tsv
 *.json
+*.txt
+*.jsonl
 *.pickle
 *.pkl
 
